@@ -1,0 +1,9 @@
+E:\mạng máy tính\company\company\obj\Debug\company.csprojAssemblyReference.cache
+E:\mạng máy tính\company\company\obj\Debug\company.company.resources
+E:\mạng máy tính\company\company\obj\Debug\company.Properties.Resources.resources
+E:\mạng máy tính\company\company\obj\Debug\company.csproj.GenerateResource.cache
+E:\mạng máy tính\company\company\bin\Debug\company.exe.config
+E:\mạng máy tính\company\company\bin\Debug\company.exe
+E:\mạng máy tính\company\company\bin\Debug\company.pdb
+E:\mạng máy tính\company\company\obj\Debug\company.exe
+E:\mạng máy tính\company\company\obj\Debug\company.pdb
